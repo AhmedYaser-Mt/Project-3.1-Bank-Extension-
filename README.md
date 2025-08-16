@@ -1,7 +1,7 @@
 # 💳 Bank 1 – C++ Console Application
 
 **Project 3 & 3.1 (1st Extension)**  
-A C++ console-based banking client management system (from *Programming Advices*) — designed for simplicity, efficiency, and learning best programming practices.
+A C++ console-based banking client management system (from  [AbouHadhood Platform](https://programmingadvices.com/)) — designed for simplicity, efficiency, and learning best programming practices.
 
 ---
 
